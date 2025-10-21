@@ -116,13 +116,4 @@ git push
 
 Pull requests are welcome. Please open an issue for major changes.
 
-## License
 
-Specify your license here (e.g., MIT).
-
----
-
-If you'd like, I can also:
-- Add a brief CONTRIBUTING.md
-- Add a GitHub Actions workflow to auto-deploy or run tests
-- Add more detailed troubleshooting or troubleshooting commands
